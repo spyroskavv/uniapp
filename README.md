@@ -1,5 +1,5 @@
 # uniapp
-This is a repository for the University Management System Application with Spring Boot for PentaSoft Gr
+This is a repository for the University Management System Application with Spring Boot for PentaSoftGR.
 
 
 University Spring Boot Project
