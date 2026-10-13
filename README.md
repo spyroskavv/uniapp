@@ -2,16 +2,17 @@
 <br>
 This is a repository for the University Management System Application with Spring Boot for PentaSoftGR.
 <br>
------------------------------------------------------------------------------------------------------------------------------ ----------------------------------
-<br>
 <br>
 
 University Spring Boot Project
 <br>
+
 Introduction:
 <br>
+
 You should create a Maven Spring Boot project with the Spring Initializr (using Java 17) with the following dependencies:
 <br>
+
 • Spring-Boot-Devtools
 
 • Lombok
@@ -25,19 +26,26 @@ You should create a Maven Spring Boot project with the Spring Initializr (using 
 • H2-Database
 
 • Spring Boot Actuator
-<br>
+
 ----------------------------------------------------------------------------------------------------------------------------- ----------------------------------
-<br>
+
 Project Requirements:
 <br>
+
 You will create a project, representing a class management system for a university.
 <br>
+
 There are 3 Departments: IT, Physics and Mathematics
 <br>
+
 In each department there are 4 courses that are taught:
 <br>
+
+<br>
+
 💻 IT
 <br>
+
 Software Development (Mandatory, 20 Credits, Duration 50 hours)
 
 Object oriented Programming (Mandatory, 30 Credits, 60 hours)
@@ -45,9 +53,12 @@ Object oriented Programming (Mandatory, 30 Credits, 60 hours)
 Computer Architecture (Optional, 10 Credits, 30 hours)
 
 Algorithms and Data Structures (Mandatory, 20 Credits, 40 hours)
+
 <br>
+
 🔬 Physics
 <br>
+
 Introduction to Mechanics (Mandatory, 25 Credits, Duration 40 hours)
 
 Astronomy (Mandatory, 30 Credits, Duration 50 hours)
@@ -56,7 +67,10 @@ Quantum Physics (Optional, 10 Credits, Duration 25 hours)
 
 Theoretical Physics (Optional, 20 Credits, Duration 30 hours)📈 Mathematics
 
+<br>
+
 🔬 Mathematics
+<br>
 
 Algebra (Mandatory, 30 Credits, Duration 60 hours)
 
