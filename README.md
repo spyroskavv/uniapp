@@ -7,12 +7,19 @@ University Spring Boot Project
 Introduction:
 
 You should create a Maven Spring Boot project with the Spring Initializr (using Java 17) with the following dependencies:
+
 Spring-Boot-Devtools
+
 Lombok
+
 Spring Web
+
 Thymeleaf
+
 Spring Data JPA
+
 H2-Database
+
 Spring Boot Actuator
 
 ----------------------------------------------------------------------------------------------------------------------------- ----------------------------------
@@ -26,6 +33,7 @@ There are 3 Departments: IT, Physics and Mathematics
 In each department there are 4 courses that are taught:
 
 💻 IT
+
 Software Development (Mandatory, 20 Credits, Duration 50 hours)
 
 Object oriented Programming (Mandatory, 30 Credits, 60 hours)
@@ -35,15 +43,23 @@ Computer Architecture (Optional, 10 Credits, 30 hours)
 Algorithms and Data Structures (Mandatory, 20 Credits, 40 hours)
 
 🔬 Physics
+
 Introduction to Mechanics (Mandatory, 25 Credits, Duration 40 hours)
+
 Astronomy (Mandatory, 30 Credits, Duration 50 hours)
+
 Quantum Physics (Optional, 10 Credits, Duration 25 hours)
+
 Theoretical Physics (Optional, 20 Credits, Duration 30 hours)📈 Mathematics
 
 🔬 Mathematics
+
 Algebra (Mandatory, 30 Credits, Duration 60 hours)
+
 Information Theory (Mandatory, 20 Credits, Duration 45 hours)
+
 Probability and statistics (Mandatory, 15 Credits, Duration 40 hours)
+
 Dynamics (Mandatory, 20 Credits, Duration 35 hours)
 
 ----------------------------------------------------------------------------------------------------------------------------- ----------------------------------
@@ -76,13 +92,21 @@ different cases in each part).
 ----------------------------------------------------------------------------------------------------------------------------- ----------------------------------
 
 Cloud:
+
 • Useful Infos ---> Cloud.pdf
+
 • After completing the University Project and you have it running locally you can start with the containerization of
 the app
+
 • Start by building an image to the local registry using a generic base image, such as alpine for instance
+
 • Build the image using a Dockerfile
+
 • After building the image, create the deployment YAML file using this image
+
 • Start the local cluster with minikube start (after some time it should start without any errors)
+
 • Then create the corresponding Service for the backend
+
 
 When the application is deployed on the cluster, try to access it through your browser
