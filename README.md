@@ -8,19 +8,19 @@ Introduction:
 
 You should create a Maven Spring Boot project with the Spring Initializr (using Java 17) with the following dependencies:
 
-Spring-Boot-Devtools
+• Spring-Boot-Devtools
 
-Lombok
+• Lombok
 
-Spring Web
+• Spring Web
 
-Thymeleaf
+• Thymeleaf
 
-Spring Data JPA
+• Spring Data JPA
 
-H2-Database
+• H2-Database
 
-Spring Boot Actuator
+• Spring Boot Actuator
 
 ----------------------------------------------------------------------------------------------------------------------------- ----------------------------------
 
@@ -31,6 +31,7 @@ You will create a project, representing a class management system for a universi
 There are 3 Departments: IT, Physics and Mathematics
 
 In each department there are 4 courses that are taught:
+
 
 💻 IT
 
