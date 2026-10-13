@@ -7,13 +7,13 @@ University Spring Boot Project
 Introduction:
 
 You should create a Maven Spring Boot project with the Spring Initializr (using Java 17) with the following dependencies:
-• Spring-Boot-Devtools
-• Lombok
-• Spring Web
-• Thymeleaf
-• Spring Data JPA
-• H2-Database
-• Spring Boot Actuator
+Spring-Boot-Devtools
+Lombok
+Spring Web
+Thymeleaf
+Spring Data JPA
+H2-Database
+Spring Boot Actuator
 
 ----------------------------------------------------------------------------------------------------------------------------- ----------------------------------
 
@@ -27,8 +27,11 @@ In each department there are 4 courses that are taught:
 
 💻 IT
 Software Development (Mandatory, 20 Credits, Duration 50 hours)
+
 Object oriented Programming (Mandatory, 30 Credits, 60 hours)
+
 Computer Architecture (Optional, 10 Credits, 30 hours)
+
 Algorithms and Data Structures (Mandatory, 20 Credits, 40 hours)
 
 🔬 Physics
