@@ -30,6 +30,7 @@ You should create a Maven Spring Boot project with the Spring Initializr (using 
 ----------------------------------------------------------------------------------------------------------------------------- ----------------------------------
 
 Project Requirements:
+
 <br>
 
 You will create a project, representing a class management system for a university.
@@ -126,5 +127,6 @@ the app
 
 • Then create the corresponding Service for the backend
 
+<br>
 
 When the application is deployed on the cluster, try to access it through your browser
